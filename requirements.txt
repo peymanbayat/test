@@ -1,0 +1,6 @@
+streamlit
+streamlit_webrtc
+av
+cv2
+pandas
+numpy
